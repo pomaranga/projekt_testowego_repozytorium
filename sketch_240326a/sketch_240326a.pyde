@@ -1,4 +1,4 @@
 setup():
-    pass
+    size(400, 400)
 draw():
     pass
