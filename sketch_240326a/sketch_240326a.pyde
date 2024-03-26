@@ -1,2 +1,4 @@
 setup():
     pass
+draw():
+    pass
