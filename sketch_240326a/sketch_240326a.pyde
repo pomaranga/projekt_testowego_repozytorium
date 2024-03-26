@@ -1,5 +1,5 @@
 setup():
-    size(2560, 1600)
+    size(1212, 1600)
 draw():
     print("Hello World")
-ja tu byl
+draw
