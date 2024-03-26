@@ -1,4 +1,4 @@
 setup():
-    size(400, 400)
+    size(2560, 1600)
 draw():
-    pass
+    print("Hello World")
